@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_mcuQgV2REe6FmqQdHg7tHQ" label="Talend_test" language="java" technicalLabel="TALEND_TEST" author="_mcuQgl2REe6FmqQdHg7tHQ" productVersion="Talend Cloud Data Management Platform-8.0.1.20230418_1502-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/chrajesh1919/Talend_test.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+  <TalendProperties:Project xmi:id="_mcuQgV2REe6FmqQdHg7tHQ" label="Talend_test" language="java" technicalLabel="TALEND_TEST" author="_mcuQgl2REe6FmqQdHg7tHQ" productVersion="Talend Cloud Data Management Platform-8.0.1.20230913_0925-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/chrajesh1919/Talend_test.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
     <migrationTask xmi:id="_mdaNAF2REe6FmqQdHg7tHQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_mcuQgl2REe6FmqQdHg7tHQ" login="chrajesh1919@trial48004.us.talend.com" firstName="Rajesh" lastName="Chirumamilla" type="DQ"/>

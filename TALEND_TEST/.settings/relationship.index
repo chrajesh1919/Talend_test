@@ -1,1 +1,55 @@
-[ ]
+[ {
+  "baseItem" : {
+    "id" : "_QKNNUGZ8EeWm5YvsrIoYzQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DemoRoutines",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "GetRandomPhoneNum",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "MDM",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_SGRC0F2TEe6ReflXkR0Y0A",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_DdT_8F2UEe6ReflXkR0Y0A",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_TUKZUF2TEe6ReflXkR0Y0A",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_TUKZUF2TEe6ReflXkR0Y0A - CRMCUSTOMER",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Twgk0F2YEe6ReflXkR0Y0A - DM_RESELLER_STG",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
